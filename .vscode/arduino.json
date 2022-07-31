@@ -1,0 +1,8 @@
+{
+    "sketch": "m5stickc_plus.ino",
+    "output": "build",
+    "board": "m5stack:esp32:m5stick-c-plus",
+    "port": "COM8",
+    "programmer": "m5stack:esptool",
+    "configuration": "PartitionScheme=default,CPUFreq=240,UploadSpeed=1500000,DebugLevel=none"
+}
